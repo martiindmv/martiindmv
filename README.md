@@ -1,5 +1,3 @@
-### Hi, I am Martin Mitrov.👋
-
 ### GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martiindmv&layout=compact&hide_border=true" /> |
