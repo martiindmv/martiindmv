@@ -1,8 +1,4 @@
 ### Hi, I am Martin Mitrov.👋
-### Welcome to my GitHub!
-
-[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/martin.mitrov7/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-mitrov/)
 
 ### GitHub Stats
 
